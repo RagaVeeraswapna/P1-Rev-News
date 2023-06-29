@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "username": "suma",
+      "email": "suma@gmail.com",
+      "phone_number": "6304658521",
+      "country": "de",
+      "password": "Suma@123",
+      "id": 15
+    },
+    {
+      "username": "krunal",
+      "email": "meghana@gmail.com",
+      "phone_number": "7418529633",
+      "country": "in",
+      "password": "Pass@123",
+      "id": 16
+    },
+    {
+      "username": "sneha",
+      "email": "sneha123@gmail.com",
+      "phone_number": "6304658521",
+      "country": "in",
+      "password": "Sneha@441",
+      "id": 17,
+      "savedArticles": []
+    }
+  ]
+}
